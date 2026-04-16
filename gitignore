@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+active.tle
+ground_station_outputs/
+*.tar.gz
+
